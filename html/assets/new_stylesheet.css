@@ -1,0 +1,38 @@
+body {
+  font-family: sans-serif, arial;
+}
+
+h1 {
+  font-size: 38px;
+}
+
+h2 {
+  font-size: 32px;
+}
+
+.ingredients-list {
+  list-style: square inside;
+}
+
+.baller-list {
+  list-style: simp-chinese-formal inside;
+}
+
+header img {
+  width: 100px
+}
+
+ul li a {
+  text-decoration: none
+  color inherit;
+}
+
+html {
+  background-color: white
+}
+
+
+#reviews {
+  color: red
+  background-color: green
+}
